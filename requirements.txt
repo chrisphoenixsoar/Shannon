@@ -1,0 +1,4 @@
+plotly==5.6.0
+tqdm== 4.64.0
+quantstats==0.0.47
+pandas==1.5.2
