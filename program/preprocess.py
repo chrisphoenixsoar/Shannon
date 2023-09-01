@@ -1,6 +1,6 @@
 import sys
 import os
-sys.path.append(r'C:/Users/w/Desktop/Shannon')
+#sys.path.append() #若因路径报错，则要在此处加入config.py所在文件夹的绝对路径
 from tqdm import tqdm
 import pkgutil
 import warnings
