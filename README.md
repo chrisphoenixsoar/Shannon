@@ -2,7 +2,7 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![License](https://img.shields.io/github/license/AI4Finance-Foundation/fingpt.svg?color=brightgreen)
 
-This project(Shannon) is an open-source framework designed to offer efficient backtesting capabilities for multi-factor stock selection strategies. The primary objective of this framework is to facilitate strategy researchers and quantitative investors in testing, optimizing, and implementing their stock selection strategies with ease.
+This project(Shannon) is an open-source framework designed to offer efficient backtesting capabilities for multi-factor strategies. The primary objective of this framework is to facilitate  researchers and traders in testing, optimizing, and implementing their strategies with ease.
 
 The key to a successful strategy lies in enhancing the signal-to-noise ratio of factors, a concept first introduced by the great foundational figure in information theory, Claude Shannon. Inspired by this concept, the design of this framework thoroughly incorporates various flexible filters to improve the signal-to-noise ratio of factors. Hence, the framework is named "Shannon" as a tribute to this brilliant genius.
 
